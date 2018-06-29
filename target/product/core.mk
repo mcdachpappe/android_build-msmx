@@ -39,7 +39,6 @@ PRODUCT_PACKAGES += \
     DuiXtendedThemeOverlay \
     ExactCalculator \
     ExternalStorageProvider \
-    Eleven \
     FusedLocation \
     GBoardDarkTheme \
     GBoardBlackTheme \
@@ -49,7 +48,6 @@ PRODUCT_PACKAGES += \
     Keyguard \
     ManagedProvisioning \
     MtpDocumentsProvider \
-    MusicFX \
     PacProcessor \
     libpac \
     PrintSpooler \
@@ -61,7 +59,6 @@ PRODUCT_PACKAGES += \
     SettingsDarkThemeOverlay \
     SettingsXtendedThemeOverlay \
     SharedStorageBackup \
-    Snap \
     StorageManager \
     SubstratumService \
     Telecom \
